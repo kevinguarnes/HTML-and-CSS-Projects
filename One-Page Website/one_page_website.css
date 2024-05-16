@@ -18,10 +18,11 @@ a:hover {
             display: grid;
             grid-template-columns: repeat(3, 1fr);
             gap: 10px;
-            width: 50%;
-            height: 50%;
+            width 50%;
+            height: auto;
             padding: 50px;
 			margin: auto;
+            align: center;
         }
         .container img {
             width: auto;
