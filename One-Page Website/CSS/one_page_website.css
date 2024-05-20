@@ -1,5 +1,6 @@
 body, a {
     font-family: 'Brandon Grotesque', sans-serif;
+    font-size: 14px;
     text-align: center;
 }
 
@@ -23,12 +24,14 @@ a:hover {
             padding: 50px;
 			margin: auto;
             align: center;
+            border-radius: 8px;
         }
         .container img {
             width: auto;
             height: 400px;
 			object-fit: cover;
 			border: 3px solid white;
+            border-radius: 8px;
         }
 .lightbox {
             display: none;
