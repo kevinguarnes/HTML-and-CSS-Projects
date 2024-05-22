@@ -21,8 +21,5 @@ An example homepage for a fictional Space Travel Company. This page is styled wi
 ### Movie Theater Website
 An example homepage for a Movie Theater, styled using Bootstrap 4. It incorporates various Bootstrap components such as a navbar, jumbotron, form, cards, and dropdowns.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 Special thanks to my instructor and classmates for their support and feedback throughout the course.
